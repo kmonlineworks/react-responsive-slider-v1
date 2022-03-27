@@ -1,4 +1,17 @@
-# Getting Started with Create React App
+# React Responsive Slider Component with Autoplay
+
+React slider build using **Styled-Component** react package for styling.
+
+Responsive slider with next and previous controls.
+
+Enabled autoplay functionality.
+
+Including seprate file for slider data for easily use the component. 
+
+### Special Thanks for Free Stock Images [Unsplash](https://unsplash.com)
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
